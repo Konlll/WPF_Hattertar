@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardver", "Hardver\Hardver.csproj", "{A449F86F-637A-41A2-879C-B85EF46B759D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A449F86F-637A-41A2-879C-B85EF46B759D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A449F86F-637A-41A2-879C-B85EF46B759D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A449F86F-637A-41A2-879C-B85EF46B759D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A449F86F-637A-41A2-879C-B85EF46B759D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC297A63-AB0B-4435-B27D-F7DF585126A0}
+	EndGlobalSection
+EndGlobal
